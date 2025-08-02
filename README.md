@@ -1,2 +1,2 @@
 # SynthGen
-Sytnthetic data generation model
+Sytnthetic data generation toolkit
